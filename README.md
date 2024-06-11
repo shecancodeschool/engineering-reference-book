@@ -1,3 +1,3 @@
-### ALTP Engineering Playbook
+### SheCanCODE Engineering Hand Book (Reference book)
 
-To read the ATLP best practices and conventions go to our [WIKI](https://github.com/atlp-rwanda/engineering-playbook/wiki)
+To read the handbook go to our [WIKI](https://github.com/shecancodeschool/engineering-reference-book/wiki)
